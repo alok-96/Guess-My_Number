@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap');
+
+body{
+    font-family: 'Press Start 2P', sans-serif;
+    color:rgb(232, 232, 232);
+    background-color: rgb(35, 35, 35);
+}
+
+header{
+    margin: 0px;
+    height: 35vh;
+    border-bottom: 7px solid rgb(232, 232, 232);
+}
+
+h1{
+    font-size: 2rem;
+    position:absolute;
+    text-align: center;
+    width: 100%;
+    top: 15%;
+}
+
+.btn{
+    padding: 20px 30px;
+    margin: 10px;
+    border: none;
+    background-color: rgb(232, 232, 232);
+    color: rgb(35, 35, 35);
+    font-family: inherit;
+    font-size: 20px;
+}
+
+#right-top{
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    position: absolute;
+    right: 2%;
+    top: 2%;
+}
+
+#question-mark{
+    width:10rem;
+    height:2rem;
+    background-color: rgb(232, 232, 232);
+    color:rgb(35, 35, 35);
+    font-size: 60px;
+    padding: 40px 0px 50px 0px;
+    text-align: center;
+    position:absolute;
+    left:45%;
+    top:30%;
+}
+
+main{
+    height: 60vh;
+    display: flex;
+}
+
+.left{
+    text-align: center;
+    align-items: center;
+    width:50%;
+    padding-top: 10rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.guess{
+    width:200px;
+    height:60px;
+    border:5px solid rgb(232, 232, 232);
+    color: inherit;
+    background-color: inherit;
+    font-family: inherit;
+    text-align:center;
+    margin:15px;
+    padding:20px;
+    font-size:50px;
+}
+
+.right{
+    /* width: 45%; */
+    font-size: 20px;
+    padding-top: 150px;
+    padding-left: 120px;
+}
+
+.message{
+    margin-bottom: 5rem;
+}
