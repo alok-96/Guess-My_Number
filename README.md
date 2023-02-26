@@ -15,4 +15,5 @@ In this game there is a secret number between 1 to 20 and we have to guess that 
 #
 ![image](https://user-images.githubusercontent.com/90456532/221398890-98d13d61-7c8e-459c-8895-7456781ed530.png)
 
-![image](https://user-images.githubusercontent.com/90456532/221398925-798dffaf-4f5e-422a-926a-98e350e1db74.png)
+![image](https://user-images.githubusercontent.com/90456532/221399200-921a8e40-70fc-44af-917b-638f4c305520.png)
+
