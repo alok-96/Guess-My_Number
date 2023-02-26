@@ -1,5 +1,5 @@
 # Guess-My-Number
-In this game there is a secret number between 1 to 20 and we have guess that number as early as posiible.
+In this game there is a secret number between 1 to 20 and we have to guess that number as early as posiible.
 
 # How to play
 - Enter a number between 1 and 20 in the input box.
@@ -8,6 +8,7 @@ In this game there is a secret number between 1 to 20 and we have guess that num
 - If the guessed number is greater than the secret number, a massage will be displayed ```📈 Too High!```.
 - If the guessed number is same as the secret number, a massage will be displayed ```🎉 Correct Number!``` and the background turns ```green```.
 - Initial score will be 20 and for every guess it will be reduced by 1.
+- If score reaches to 0, you lost the game.
 - The Highscore will be the maximum of all scores in the current session.
 - You can reset the game by clicking ```Again!``` button.
 
